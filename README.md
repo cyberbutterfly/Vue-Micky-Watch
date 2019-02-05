@@ -1,5 +1,7 @@
 # micky-watch
 
+![example](https://github.com/goblindaydream/Vue-Micky-Watch/blob/master/src/assets/screenshot.png)
+
 ## Project setup
 ```
 npm install
